@@ -23,7 +23,7 @@ If you find any spelling/grammatical errors and/or other mistakes please open an
 
 Q: Why do you write your CVEs as PDFs?
 
-A: I use PDFs to responsably disclose the identified vulnerabilities to the respective software vendors. As I want to eventually post all +100 0-days, I needed a way to quicly modify and post them here without reworking them from scratch (rewriting them as Markdown is too labor intensive).
+A: I use PDFs to responsably disclose the identified vulnerabilities to the respective software vendors. As I want to eventually post all +100 0-days, I needed a way to quickly modify and post them here without reworking them from scratch (rewriting them as Markdown is too labor intensive).
 
 ----
 
