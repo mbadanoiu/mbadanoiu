@@ -11,9 +11,8 @@ I do not condone malicious behavoiur such as hacking systems without being autho
 I am:
 - Matei "Mal" Badanoiu
 - Hacker
-- Pentester by day
-- Security researcher by night
-- Owner of +100 responsibly disclosed 0-days/CVEs
+- Security researcher 24/6 (I take a day off ... sometimes)
+- Owner of +120 responsibly disclosed 0-days/CVEs
 
 ## Additional Information
 
